@@ -11,7 +11,7 @@ export default function Footer() {
              <img src={logo} alt="Aluraflix Logo" className="h-10" />
           </div>
           <p className="text-gray-400 text-sm text-center">
-            © {new Date().getFullYear()} AluraFlix Challenge. Made by Jony Reyes. All rights reserved.
+            © {new Date().getFullYear()} AluraFlix Challenge. Made by Brian Canales. All rights reserved.
           </p>
         </div>
       </div>
